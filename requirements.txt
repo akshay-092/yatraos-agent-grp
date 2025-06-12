@@ -2,3 +2,6 @@ streamlit
 crewai
 pysqlite3-binary
 python-dotenv
+langchain-community
+chromadb
+langchain-google-genai
